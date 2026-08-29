@@ -22,4 +22,4 @@ The final logistic regression model achieved approximately 83.6% accuracy on the
 Austin Animal Center public intake data.
 
 # Project Background
-This project was completed as part of a university statistics/data science course in a team setting. The repository showcases the modeling, analysis, and reporting components of the project.
+This project was completed as part of a data science course at the University of Texas at Austin in a team setting. The repository showcases the modeling, analysis, and reporting components of the project.
